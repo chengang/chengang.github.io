@@ -1,7 +1,7 @@
 ---
 title: Adobe家的HTTP Dynamic Streaming介绍
 date: 2011-04-25T12:45:45+00:00
-layout: post
+
 ---
 和APPLE家的HTTP Live Streaming差不多，主要异同如下：
 

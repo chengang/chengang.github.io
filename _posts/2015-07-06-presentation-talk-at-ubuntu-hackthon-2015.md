@@ -1,7 +1,7 @@
 ---
 title: '[逐字稿]ubuntuHackathon作品发表'
 date: 2015-07-06T12:18:24+00:00
-layout: post
+
 ---
 slide地址：http://www.slideshare.net/pluschen/beijingubuntuhackathon
 

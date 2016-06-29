@@ -1,7 +1,7 @@
 ---
 title: OAuth和OpenID的区别
 date: 2015-09-19T16:11:21+00:00
-layout: post
+
 ---
 OAuth和OpenID都是开放的Web第三方登录标准，都使用了HTTP重定向的方式，也都可以集中管理登录有效期。
 

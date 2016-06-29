@@ -1,7 +1,7 @@
 ---
 title: xcode5.1使用ffmpeg-lib
 date: 2014-03-24T22:17:44+00:00
-layout: post
+
 ---
 1、编译ffmpeg；
    

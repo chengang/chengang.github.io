@@ -1,7 +1,7 @@
 ---
 title: 如何用mencoder编出HighMainBaseline的H264视频
 date: 2010-06-28T15:11:51+00:00
-layout: post
+
 ---
 从上往下判断：
 

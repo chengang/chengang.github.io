@@ -1,7 +1,7 @@
 ---
 title: linux里install命令和cp命令的区别
 date: 2011-10-23T11:57:41+00:00
-layout: post
+
 ---
 基本上，在Makefile里会用到install，其他地方会用cp命令。
 

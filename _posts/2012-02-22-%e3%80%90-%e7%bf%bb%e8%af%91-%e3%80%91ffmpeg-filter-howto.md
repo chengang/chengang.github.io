@@ -1,7 +1,7 @@
 ---
 title: 【 翻译 】FFmpeg filter HOWTO
 date: 2012-02-22T15:52:28+00:00
-layout: post
+
 ---
 ## 定义一个滤镜
 

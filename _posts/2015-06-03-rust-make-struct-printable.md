@@ -1,7 +1,7 @@
 ---
 title: '[rust]使struct可被打印'
 date: 2015-06-03T00:49:38+00:00
-layout: post
+
 ---
 这块变化挺大的。
   

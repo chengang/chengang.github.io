@@ -1,7 +1,7 @@
 ---
 title: HAProxy、Nginx、Varnish分别实现简易CDN调度器
 date: 2013-10-27T12:46:16+00:00
-layout: post
+
 ---
 ## 引子
 

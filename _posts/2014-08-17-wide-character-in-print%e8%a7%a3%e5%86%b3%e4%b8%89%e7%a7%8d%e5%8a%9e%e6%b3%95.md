@@ -1,7 +1,7 @@
 ---
 title: '【 Perl 】三种方式解决&#8221; Wide character in subroutine/print &#8220;'
 date: 2014-08-17T16:48:07+00:00
-layout: post
+
 ---
 ## 1、binmode STDOUT, &#8220;:utf8&#8221;;
 

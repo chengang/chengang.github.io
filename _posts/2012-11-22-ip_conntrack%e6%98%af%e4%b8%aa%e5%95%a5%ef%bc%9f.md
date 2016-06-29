@@ -1,7 +1,7 @@
 ---
 title: ip_conntrack是个啥？
 date: 2012-11-22T13:31:28+00:00
-layout: post
+
 ---
 是iptable用来追踪链接的记录。
 

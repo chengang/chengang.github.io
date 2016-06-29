@@ -1,7 +1,7 @@
 ---
 title: 【 Perl 】控制Firefox实现自动化Web测试
 date: 2014-08-17T17:35:56+00:00
-layout: post
+
 ---
 ## 安装
 

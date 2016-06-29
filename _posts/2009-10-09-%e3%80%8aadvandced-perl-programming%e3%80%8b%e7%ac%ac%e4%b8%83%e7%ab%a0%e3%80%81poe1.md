@@ -1,7 +1,7 @@
 ---
 title: 《Advandced Perl Programming》第七章、POE(1)
 date: 2009-10-09T17:52:28+00:00
-layout: post
+
 ---
 这一章，我们一起来看看被Mark-Jason Dominus称为“Perl5里最有意思的进化”的Perl Object Environment。POE有很多用途，列举一些如下：
 

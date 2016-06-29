@@ -1,7 +1,7 @@
 ---
 title: SEO清单2015
 date: 2015-09-21T13:26:28+00:00
-layout: post
+
 ---
 是否安装了Google统计?
   

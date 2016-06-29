@@ -1,7 +1,7 @@
 ---
 title: '[rust]三个方法解决error: use of moved value'
 date: 2015-06-04T00:02:14+00:00
-layout: post
+
 ---
 ## 概述
 

@@ -1,7 +1,7 @@
 ---
 title: 如何让WebServer支持CGI
 date: 2012-05-24T18:16:16+00:00
-layout: post
+
 ---
 想着让自己写的WebServer支持CGI协议，这样就不用总是给选用我的server的同学讲解怎么用怎么方便了。
 

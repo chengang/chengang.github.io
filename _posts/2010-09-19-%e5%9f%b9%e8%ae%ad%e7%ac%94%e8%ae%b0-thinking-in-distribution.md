@@ -1,7 +1,7 @@
 ---
 title: '培训笔记 &#8211; Thinking in distribution'
 date: 2010-09-19T10:50:56+00:00
-layout: post
+
 ---
 1、什么是分布式？
   

@@ -1,7 +1,7 @@
 ---
 title: Redis服务器的sysctl.conf配置
 date: 2014-08-16T07:52:09+00:00
-layout: post
+
 ---
 ## 调整思路
 

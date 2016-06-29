@@ -1,7 +1,7 @@
 ---
 title: HTTP Live Streaming的几个细节
 date: 2011-04-25T12:13:13+00:00
-layout: post
+
 ---
 ## 如何做内容加密
 

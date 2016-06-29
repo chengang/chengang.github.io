@@ -1,7 +1,7 @@
 ---
 title: Websocket协议rfc阅读散记
 date: 2014-12-16T18:40:55+00:00
-layout: post
+
 ---
 websocket协议(rfc6455)见此地址: tools.ietf.org/html/rfc6455
   

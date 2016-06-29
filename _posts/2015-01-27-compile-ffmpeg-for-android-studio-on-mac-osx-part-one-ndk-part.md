@@ -1,7 +1,7 @@
 ---
 title: Mac下为Android Studio编译Ffmpeg（一）ndk部分
 date: 2015-01-27T11:25:00+00:00
-layout: post
+
 ---
 本文参考http://www.roman10.net/how-to-build-ffmpeg-with-ndk-r9/。
   

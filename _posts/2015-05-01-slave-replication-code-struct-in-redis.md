@@ -1,7 +1,7 @@
 ---
 title: redis的slave复制过程小窥备忘
 date: 2015-05-01T21:30:48+00:00
-layout: post
+
 ---
 ## redis.c
 

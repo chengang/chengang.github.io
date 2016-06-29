@@ -1,7 +1,7 @@
 ---
 title: Flex中的VideoDisplay缩放时去锯齿
 date: 2010-05-26T15:48:03+00:00
-layout: post
+
 ---
 flex中提供的视频播放组件VideoDisplay有一个很恶心的地方。当指定大小与视频大小不一致时画质会严重下降。其实这是因为flex没有开启flash中Smoothing属性的原因。
 

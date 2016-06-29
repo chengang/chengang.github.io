@@ -1,7 +1,7 @@
 ---
 title: Mac下为Android Studio编译Ffmpeg（二）Android Studio部分
 date: 2015-01-27T17:39:54+00:00
-layout: post
+
 ---
 Android Studio和Eclipse不太一样，它有一定的自动生成Android.mk并自动搞定JNI的能力。
   

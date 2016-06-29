@@ -1,7 +1,7 @@
 ---
 title: 《Advandced Perl Programming》第七章、POE(2)
 date: 2009-10-26T18:08:29+00:00
-layout: post
+
 ---
 ## Wheels
 

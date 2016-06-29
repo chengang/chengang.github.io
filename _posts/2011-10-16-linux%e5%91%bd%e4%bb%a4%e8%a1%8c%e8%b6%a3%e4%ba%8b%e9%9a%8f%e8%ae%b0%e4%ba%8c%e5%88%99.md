@@ -1,7 +1,7 @@
 ---
 title: 啥ISO文件在mount的时候被称作loop设备
 date: 2011-10-16T22:29:34+00:00
-layout: post
+
 ---
 
 ## 为啥ISO文件在mount的时候被称作loop设备
