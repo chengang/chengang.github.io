@@ -1,9 +1,9 @@
 ---
 title: 陈钢的博客
+layout: default
 ---
-<h2>{{ page.title }}</h2>
 {% for post in site.posts %}
-	<h2>{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h2>
-	<p>{{ post.content }}</p>
-	<hr/>
+<h2>{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h2>
+<p>{{ post.content }}</p>
+<hr/>
 {% endfor %}
