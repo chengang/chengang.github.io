@@ -1,16 +1,7 @@
 ---
-id: 2885
 title: fanotify与inotify的区别
 date: 2012-01-04T18:13:41+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=2885
-permalink: /2885.html
-categories:
-  - 备忘
-tags:
-  - fanotify
-  - inotify
 ---
 fanotify在2.6.36版本（2010-10-21）并入Linux内核（同时增加了CIFS本地缓存），它与原有的inotify的区别在于以下：
 

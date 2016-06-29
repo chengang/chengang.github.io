@@ -1,17 +1,7 @@
 ---
-id: 4684
 title: 《创造知识的企业》读后小结
 date: 2015-06-19T15:37:48+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4684
-permalink: /4684.html
-categories:
-  - 读书
-tags:
-  - scrum
-  - 创造知识的企业
-  - 敏捷开发
 ---
 买这本书来读的最主要原因是，这是第一本系统提出scrum的前身“橄榄球开发方法”的书。
 

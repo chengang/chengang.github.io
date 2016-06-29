@@ -1,16 +1,7 @@
 ---
-id: 4752
 title: 面包店算法
 date: 2015-09-21T07:36:41+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4752
-permalink: /4752.html
-categories:
-  - 备忘
-tags:
-  - 算法
-  - 面包店算法
 ---
 用于多线程操作同一个数据时同步使用。
   

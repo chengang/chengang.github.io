@@ -1,21 +1,7 @@
 ---
-id: 4281
 title: '【 Perl 】三种方式解决&#8221; Wide character in subroutine/print &#8220;'
 date: 2014-08-17T16:48:07+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4281
-permalink: /4281.html
-categories:
-  - 备忘
-tags:
-  - perl
-  - utf8
-  - Wide character in print
-  - Wide character in subroutine
-  - 字符集
-  - 字符集编码
-  - 宽字节
 ---
 ## 1、binmode STDOUT, &#8220;:utf8&#8221;;
 

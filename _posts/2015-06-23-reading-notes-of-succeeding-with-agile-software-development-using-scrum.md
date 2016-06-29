@@ -1,16 +1,7 @@
 ---
-id: 4691
 title: 《Scrum敏捷软件开发》散记
 date: 2015-06-23T17:29:40+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4691
-permalink: /4691.html
-categories:
-  - 备忘
-  - 读书
-tags:
-  - scrum
 ---
 1、要有欲望和激情；
 

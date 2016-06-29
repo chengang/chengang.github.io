@@ -1,17 +1,7 @@
 ---
-id: 2659
 title: linux里install命令和cp命令的区别
 date: 2011-10-23T11:57:41+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=2659
-permalink: /2659.html
-categories:
-  - 备忘
-tags:
-  - cp
-  - install
-  - linux
 ---
 基本上，在Makefile里会用到install，其他地方会用cp命令。
 

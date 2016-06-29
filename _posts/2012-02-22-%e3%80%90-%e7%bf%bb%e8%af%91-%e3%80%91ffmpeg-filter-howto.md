@@ -1,18 +1,7 @@
 ---
-id: 3023
 title: 【 翻译 】FFmpeg filter HOWTO
 date: 2012-02-22T15:52:28+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=3023
-permalink: /3023.html
-categories:
-  - 实践
-  - 翻译
-tags:
-  - ffmpeg
-  - libavfilter
-  - 滤镜
 ---
 ## 定义一个滤镜
 

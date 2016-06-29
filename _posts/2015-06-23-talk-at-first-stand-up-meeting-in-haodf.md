@@ -1,16 +1,7 @@
 ---
-id: 4697
-title: 《晨会逐字稿1》
+title: 《晨会逐字稿》
 date: 2015-06-23T02:59:09+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4697
-permalink: /4697.html
-categories:
-  - 实践
-tags:
-  - scrum
-  - 逐字稿
 ---
 今天是我们第一次站会，如上周所说，我们从今天起要致力于以两周为周期，交付可使用的软件。
 

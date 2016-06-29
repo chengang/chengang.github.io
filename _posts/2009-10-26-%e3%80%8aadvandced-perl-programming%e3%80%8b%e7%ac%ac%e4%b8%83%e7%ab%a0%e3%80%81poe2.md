@@ -1,17 +1,7 @@
 ---
-id: 1362
 title: 《Advandced Perl Programming》第七章、POE(2)
 date: 2009-10-26T18:08:29+00:00
-author: chen
 layout: post
-guid: http://blog.chengang.cc/index.php/archives/1362
-permalink: /1362.html
-categories:
-  - 备忘
-tags:
-  - Advandced Perl Programming
-  - perl
-  - poe
 ---
 ## Wheels
 

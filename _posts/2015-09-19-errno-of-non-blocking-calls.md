@@ -1,24 +1,7 @@
 ---
-id: 4738
 title: 非阻塞read()时的errno
 date: 2015-09-19T02:59:08+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4738
-permalink: /4738.html
-categories:
-  - 备忘
-  - 翻译
-tags:
-  - bind
-  - connect
-  - EAGAIN
-  - EINTR
-  - O_NONBLOCK
-  - read()
-  - receive
-  - send
-  - socket
 ---
 各个系统非阻塞read()的errno一般不会设置为EINTR。查看socket方法bind()、connect()、send()、receive()的man手册，或是POSIX标准，会发现一件有趣的事情：只有bind()不会把errno设置为EINTR，而bind()正好是其中唯一一个默认非阻塞的方法。
 

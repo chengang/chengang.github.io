@@ -1,17 +1,7 @@
 ---
-id: 3756
 title: HTTP Live Streaming的加密和防盗链备忘
 date: 2013-09-03T18:09:04+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=3756
-permalink: /3756.html
-categories:
-  - 备忘
-tags:
-  - EXT-X-KEY
-  - HTTP Live Streaming
-  - m3u8
 ---
 1、大意就是用EXT-X-KEY来加密文件碎片，然后动态地改变EXT-X-KEY，并且在EXT-X-KEY上加权限控制；
   

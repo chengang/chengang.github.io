@@ -1,17 +1,7 @@
 ---
-id: 2318
 title: HTTP Live Streaming的几个细节
 date: 2011-04-25T12:13:13+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=2318
-permalink: /2318.html
-categories:
-  - 备忘
-  - 实践
-tags:
-  - HTTP Live Streaming
-  - Redundant Streams
 ---
 ## 如何做内容加密
 

@@ -1,21 +1,7 @@
 ---
-id: 3042
 title: Perl语言中的协程 ——“Coro”简介
 date: 2012-02-27T23:10:22+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=3042
-permalink: /3042.html
-categories:
-  - 实践
-  - 翻译
-tags:
-  - Coro
-  - perl
-  - poe
-  - 协程
-  - 线程
-  - 进程
 ---
 ## 进程、线程和协程
 

@@ -1,19 +1,7 @@
 ---
-id: 2956
 title: RHCA培训散记（333网络安全 – 4）《关于基于网络的身份验证》
 date: 2012-01-26T11:10:48+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=2956
-permalink: /2956.html
-categories:
-  - 备忘
-tags:
-  - 333
-  - kerberos
-  - NIS
-  - NSS
-  - RHCA
 ---
 ## NIS
 

@@ -1,19 +1,7 @@
 ---
-id: 2535
 title: 媒体事件影响国家政策一例 —— 中国无罪推定很早就有了
 date: 2011-09-09T18:04:49+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=2535
-permalink: /2535.html
-categories:
-  - 读书
-tags:
-  - 法理
-  - 淳于意
-  - 缇萦
-  - 美女
-  - 资治通鉴
 ---
 资治通鉴卷15 － 太宗孝文皇帝下十三年（公元前167）
 

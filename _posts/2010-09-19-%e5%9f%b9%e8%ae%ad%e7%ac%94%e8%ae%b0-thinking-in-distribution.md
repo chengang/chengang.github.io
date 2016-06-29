@@ -1,15 +1,7 @@
 ---
-id: 2003
 title: '培训笔记 &#8211; Thinking in distribution'
 date: 2010-09-19T10:50:56+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=2003
-permalink: /2003.html
-categories:
-  - 备忘
-tags:
-  - 培训
 ---
 1、什么是分布式？
   

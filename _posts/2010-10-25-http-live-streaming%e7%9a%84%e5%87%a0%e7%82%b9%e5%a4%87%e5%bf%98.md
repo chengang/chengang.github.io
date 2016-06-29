@@ -1,16 +1,7 @@
 ---
-id: 2060
 title: HTTP Live Streaming的几点备忘
 date: 2010-10-25T17:32:42+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=2060
-permalink: /2060.html
-categories:
-  - 实践
-tags:
-  - HTTP Live Streaming
-  - 视频
 ---
 1、更长的分段导致更长的延迟和更长的初始化时间，切换码率（只能在切换分段的时候切）也更慢；
   

@@ -1,16 +1,7 @@
 ---
-id: 4755
 title: SEO清单2015
 date: 2015-09-21T13:26:28+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4755
-permalink: /4755.html
-categories:
-  - 备忘
-tags:
-  - google
-  - seo
 ---
 是否安装了Google统计?
   

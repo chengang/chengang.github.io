@@ -1,17 +1,7 @@
 ---
-id: 2323
 title: Adobe家的HTTP Dynamic Streaming介绍
 date: 2011-04-25T12:45:45+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=2323
-permalink: /2323.html
-categories:
-  - 备忘
-  - 实践
-tags:
-  - HTTP Dynamic Streaming
-  - HTTP Live Streaming
 ---
 和APPLE家的HTTP Live Streaming差不多，主要异同如下：
 

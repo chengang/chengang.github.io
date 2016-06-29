@@ -1,18 +1,7 @@
 ---
-id: 2005
 title: 欺骗Ipad让它播放High Profile的h264视频
 date: 2010-09-20T17:07:06+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=2005
-permalink: /2005.html
-categories:
-  - 实践
-tags:
-  - h264
-  - high profile
-  - ipad
-  - 视频
 ---
 邓旭的发现，可以欺骗ipad播high profile的h.264视频，被发现的中文GUI可用软件下载地址如下：
   

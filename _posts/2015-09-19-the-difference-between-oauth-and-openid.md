@@ -1,17 +1,7 @@
 ---
-id: 4745
 title: OAuth和OpenID的区别
 date: 2015-09-19T16:11:21+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4745
-permalink: /4745.html
-categories:
-  - 备忘
-  - 翻译
-tags:
-  - oauth
-  - openid
 ---
 OAuth和OpenID都是开放的Web第三方登录标准，都使用了HTTP重定向的方式，也都可以集中管理登录有效期。
 

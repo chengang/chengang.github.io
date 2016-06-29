@@ -1,17 +1,7 @@
 ---
-id: 3089
 title: 如何让WebServer支持CGI
 date: 2012-05-24T18:16:16+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=3089
-permalink: /3089.html
-categories:
-  - 实践
-tags:
-  - cgi
-  - fastcgi
-  - mod_perl
 ---
 想着让自己写的WebServer支持CGI协议，这样就不用总是给选用我的server的同学讲解怎么用怎么方便了。
 

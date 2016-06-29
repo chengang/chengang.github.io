@@ -1,20 +1,7 @@
 ---
-id: 4261
 title: Redis服务器的sysctl.conf配置
 date: 2014-08-16T07:52:09+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4261
-permalink: /4261.html
-categories:
-  - 备忘
-tags:
-  - dirty_ratio
-  - drop_caches
-  - redis
-  - sysctl
-  - sysctl.conf
-  - sysctl官方文档
 ---
 ## 调整思路
 

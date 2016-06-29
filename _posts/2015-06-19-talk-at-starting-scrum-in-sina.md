@@ -1,17 +1,7 @@
 ---
-id: 4685
 title: 《各位，我们进入敏捷过程吧》逐字稿
 date: 2015-06-19T11:19:08+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4685
-permalink: /4685.html
-categories:
-  - 备忘
-  - 实践
-tags:
-  - scrum
-  - 敏捷开发
 ---
 大家都能感觉得到，最近一段时间我们的开发效率不理想。
 

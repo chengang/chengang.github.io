@@ -1,17 +1,7 @@
 ---
-id: 4714
 title: '[逐字稿]ubuntuHackathon作品发表'
 date: 2015-07-06T12:18:24+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4714
-permalink: /4714.html
-categories:
-  - 实践
-tags:
-  - cordova
-  - hackathon
-  - ubuntu
 ---
 slide地址：http://www.slideshare.net/pluschen/beijingubuntuhackathon
 

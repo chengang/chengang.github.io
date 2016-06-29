@@ -1,21 +1,7 @@
 ---
-id: 3271
 title: P2P软件如何找到离自己最近的peer？
 date: 2013-03-05T14:17:39+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=3271
-permalink: /3271.html
-categories:
-  - 备忘
-  - 实践
-tags:
-  - bt
-  - eDonkey
-  - KAD
-  - p2p
-  - peer
-  - Tracker
 ---
 最近想做一个客户端自主动态选择最近服务器以提供优质上传服务的程序。想着P2P那么多年的发展肯定已经有了相关的沉淀，于是调研了一下流行的P2P协议。
 

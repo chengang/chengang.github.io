@@ -1,20 +1,7 @@
 ---
-id: 3851
 title: HAProxy、Nginx、Varnish分别实现简易CDN调度器
 date: 2013-10-27T12:46:16+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=3851
-permalink: /3851.html
-categories:
-  - 实践
-tags:
-  - cdn
-  - cdn调度
-  - haproxy
-  - nginx
-  - varnish
-  - 调度器
 ---
 ## 引子
 

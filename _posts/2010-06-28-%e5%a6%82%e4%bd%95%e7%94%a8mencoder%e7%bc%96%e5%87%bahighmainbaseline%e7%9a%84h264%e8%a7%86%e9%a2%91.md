@@ -1,19 +1,7 @@
 ---
-id: 1782
 title: 如何用mencoder编出HighMainBaseline的H264视频
 date: 2010-06-28T15:11:51+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=1782
-permalink: /1782.html
-categories:
-  - 实践
-tags:
-  - baseline
-  - high
-  - main
-  - mencoder
-  - x264
 ---
 从上往下判断：
 

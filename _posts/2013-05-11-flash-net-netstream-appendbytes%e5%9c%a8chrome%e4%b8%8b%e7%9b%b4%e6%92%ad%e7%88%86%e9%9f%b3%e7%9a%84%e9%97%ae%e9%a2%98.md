@@ -1,22 +1,7 @@
 ---
-id: 3401
 title: flash.net.NetStream.appendBytes()在chrome下直播爆音的问题解决
 date: 2013-05-11T12:44:06+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=3401
-permalink: /3401.html
-categories:
-  - 实践
-tags:
-  - appendBytes
-  - as
-  - chrome
-  - cilacila
-  - flash
-  - HDS
-  - noise
-  - OSMF
 ---
 去年底和[东东](http://weibo.com/iceash "http://weibo.com/iceash")、[耿星](http://weibo.com/u/1806697365)一起，研究了一下Adobe家[HDS](http://www.adobe.com/cn/products/hds-dynamic-streaming.html "HTTP Dynamic Streaming")的具体实现 [OSMF](http://www.opensourcemediaframework.com/ "http://www.opensourcemediaframework.com/")。利用其中的一个核心方法 [flash.net.NetStream.appendBytes()](http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/net/NetStream.html#appendBytes() "flash.net.NetStream.appendBytes()")构建了我们自己的HTTP点直播播放框架。
 

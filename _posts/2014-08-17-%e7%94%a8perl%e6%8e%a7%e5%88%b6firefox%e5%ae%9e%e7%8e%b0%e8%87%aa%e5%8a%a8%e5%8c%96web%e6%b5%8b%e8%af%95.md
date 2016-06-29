@@ -1,20 +1,7 @@
 ---
-id: 4279
 title: 【 Perl 】控制Firefox实现自动化Web测试
 date: 2014-08-17T17:35:56+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4279
-permalink: /4279.html
-categories:
-  - 备忘
-tags:
-  - Firefox
-  - mozrepl
-  - perl
-  - WWW::Mechanize::Firefox
-  - 自动化Firefox
-  - 自动化测试
 ---
 ## 安装
 

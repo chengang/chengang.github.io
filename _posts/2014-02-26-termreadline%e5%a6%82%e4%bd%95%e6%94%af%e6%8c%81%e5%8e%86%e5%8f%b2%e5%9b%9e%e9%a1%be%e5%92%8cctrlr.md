@@ -1,22 +1,7 @@
 ---
-id: 4040
 title: Term::ReadLine如何支持历史回顾和ctrl+r
 date: 2014-02-26T11:51:47+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4040
-permalink: /4040.html
-categories:
-  - 备忘
-  - 实践
-tags:
-  - addhistory
-  - cli
-  - perl
-  - readline
-  - Term::ReadLine
-  - Term::UI
-  - 命令行
 ---
 利用Perl的[Term::ReadLine](https://metacpan.org/pod/Term::ReadLine "Term::ReadLine")可以造出和shell一样的交互式运行环境。
 

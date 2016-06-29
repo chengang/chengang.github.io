@@ -1,25 +1,8 @@
 ---
-id: 2639
-title: linux命令行最速清空文件方法（外一则）
+title: 啥ISO文件在mount的时候被称作loop设备
 date: 2011-10-16T22:29:34+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=2639
-permalink: /2639.html
-categories:
-  - 备忘
-tags:
-  - lofi
-  - loop
-  - mount
-  - 快速清空文件
 ---
-## linux命令行最速清空文件方法
-
-<pre class="brush: bash">> myfilename
-</pre>
-
-
 
 ## 为啥ISO文件在mount的时候被称作loop设备
 

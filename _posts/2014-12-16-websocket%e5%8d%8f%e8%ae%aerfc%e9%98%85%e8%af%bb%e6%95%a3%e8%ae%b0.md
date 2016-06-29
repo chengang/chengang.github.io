@@ -1,19 +1,7 @@
 ---
-id: 4422
 title: Websocket协议rfc阅读散记
 date: 2014-12-16T18:40:55+00:00
-author: chen
 layout: post
-guid: http://blog.yikuyiku.com/?p=4422
-permalink: /4422.html
-categories:
-  - 备忘
-  - 读书
-tags:
-  - Control frame
-  - websocket
-  - ws
-  - 读书笔记
 ---
 websocket协议(rfc6455)见此地址: tools.ietf.org/html/rfc6455
   
