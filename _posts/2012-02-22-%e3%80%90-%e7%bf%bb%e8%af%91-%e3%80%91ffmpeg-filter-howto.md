@@ -20,7 +20,7 @@ tags:
 
 所有我们写的滤镜都要用一个AVFilter结构体讲给ffmpeg听。 这个结构体里描述了ffmpeg从哪个方法进入我们的滤镜。 这个结构体在libavfilter/avfilter.h里如下定义：
 
-<pre class="brush: cpp">typedef struct
+<pre>typedef struct
 {
     char *name;         ///&lt; 滤镜名称
 
@@ -42,7 +42,7 @@ tags:
 
 这个滤镜用于描述滤镜的输入输出，在libavfilter/avfilter.h中定义如下：
 
-<pre class="brush: cpp">typedef struct AVFilterPad
+<pre>typedef struct AVFilterPad
 {
     char *name;
     int type;
@@ -185,26 +185,28 @@ config_props() on output pad 把输出的图像尺寸设置成和输入一样
 
 首先，让我们看一眼在“libavfilter/vf_negate.c”文件最下面的“AVFilter”结构体：
 
-<pre class="brush: cpp">AVFilter avfilter_vf_negate =
-{
-    .name      = "negate",
-
-    .priv_size = sizeof(NegContext),
-
-    .query_formats = query_formats,
-
-    .inputs    = (AVFilterPad[]) {{ .name            = "default",
-                                    .type            = AV_PAD_VIDEO,
-                                    .draw_slice      = draw_slice,
-                                    .config_props    = config_props,
-                                    .min_perms       = AV_PERM_READ, },
-                                  { .name = NULL}},
-    .outputs   = (AVFilterPad[]) {{ .name            = "default",
-                                    .type            = AV_PAD_VIDEO, },
-                                  { .name = NULL}},
-};
-
+{% raw %}
+<pre>AVFilter avfilter_vf_negate =
+    {
+        .name      = "negate",
+    
+        .priv_size = sizeof(NegContext),
+    
+        .query_formats = query_formats,
+    
+        .inputs    = (AVFilterPad[]) {{ .name            = "default",
+                                        .type            = AV_PAD_VIDEO,
+                                        .draw_slice      = draw_slice,
+                                        .config_props    = config_props,
+                                        .min_perms       = AV_PERM_READ, },
+                                      { .name = NULL}},
+        .outputs   = (AVFilterPad[]) {{ .name            = "default",
+                                        .type            = AV_PAD_VIDEO, },
+                                      { .name = NULL}},
+    };
+    
 </pre>
+{% endraw %}
 
 可以看到滤镜的名字是“negate”，需要sizeof(NegContext)字节的空间存储上下文。在input和output列表的最后，都有一个name设置为NULL的pad。可以看出这个滤镜确实只有一个输入一个输出。如果你仔细观察pad的定义，你会发现好多回调函数已经被指定好了。因为我们这个滤镜很简单，所以大多数保持默认的就可以。
 
