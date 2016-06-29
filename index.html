@@ -4,6 +4,7 @@ title: 陈钢的博客
 <h2>{{ page.title }}</h2>
 <ul>
 {% for post in site.posts %}
-<li>{{ post.date | date: "%Y-%m-%d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+	<li>{{ post.date | date: "%Y-%m-%d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+	<p>{{ post.content }}</p>
 {% endfor %}
 </ul>
