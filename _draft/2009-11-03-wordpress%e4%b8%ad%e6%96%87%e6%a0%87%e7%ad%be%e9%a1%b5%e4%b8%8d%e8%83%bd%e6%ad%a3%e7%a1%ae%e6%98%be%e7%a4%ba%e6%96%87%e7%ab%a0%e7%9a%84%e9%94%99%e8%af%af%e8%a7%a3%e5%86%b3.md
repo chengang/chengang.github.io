@@ -1,7 +1,7 @@
 ---
 title: wordpress中文标签页链接错误的解决
 date: 2009-11-03T22:18:04+00:00
-layout: post
+
 ---
 转载自http://www.summerdiary.com/iis-wordpress-chinese-tags/
 
