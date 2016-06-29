@@ -1,7 +1,6 @@
 ---
 title: 脊髓型颈椎病手术实历
 date: 2013-10-21T18:44:04+00:00
-
 ---
 以下内容是我得病之后的短短半个月时间里，根据医生护士、病友说的以及wiki内容的自我理解。
   
@@ -184,20 +183,3 @@ date: 2013-10-21T18:44:04+00:00
 还要感谢这段时间没日没夜辛苦照顾我的老婆和父母。
   
 正如歌里唱的“此时我才知我离不开你，我的姑娘。”
-
-<embed src="http://player.youku.com/player.php/sid/XNTc5Mzc2Njgw/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
-</embed>
-
-
-  
-
-
-http://video.sina.com.cn/v/b/117364599-1615924762.html
-  
-
-
-谢谢关心我的朋友们，健康真的很重要，真的病了痛了体会特别深刻。
-  
-大家在工作之余都一定要注意保重身体。
-  
-愿我们大家和世上所有人都能远离病痛。

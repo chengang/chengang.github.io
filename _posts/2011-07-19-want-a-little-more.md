@@ -1,7 +1,6 @@
 ---
 title: 不要那么多，我只要一点点
 date: 2011-07-19T08:36:25+00:00
-
 ---
 毫无疑问，李敖是爱女人的。
 
@@ -42,6 +41,3 @@ date: 2011-07-19T08:36:25+00:00
 > 别人的爱想天长，
   
 > 我的爱随你变。 
-
-<embed src="http://www.xiami.com/widget/0_376926/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent">
-</embed>
