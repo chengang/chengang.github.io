@@ -4,6 +4,6 @@ layout: default
 ---
 {% for post in site.posts %}
 <h2>{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h2>
-<p>{{ post.content }}</p>
+{{ post.content }}
 <hr/>
 {% endfor %}
