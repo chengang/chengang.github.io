@@ -51,6 +51,8 @@ enable_nacl = false # 不支持 NACL 插件
 use_aura = false
 enable_remoting = false # 不支持远程控制
 
+```
+
 ### 构建
 
 ```sh
