@@ -3,8 +3,7 @@ title: 构建 chromium 的例子程序备忘
 date: 2025-07-07T00:30:38+00:00    
 ---   
 
-下载源代码
-==========
+### 下载源代码
 
 ```sh 
 
@@ -22,8 +21,8 @@ fetch --no-history chromium
 ```
 
 
-准备构建
-========
+<br/>
+### 准备构建
 
 ```sh
 
@@ -33,36 +32,39 @@ cd src
 
 gn gen out/Default
 
-# cat out/Default/build.ninja 看所有可能的编译目标，下面编译的是 Content Shell
-# gn args --list out/Default 查看所有可能的编译选项
 # gn gen out/gn --ide=xcode 生成 Xcode 项目
 
 ```
 
 
-修改编译选项
-============
+<br/>
+### 修改编译选项
 
 ```sh
 
 # 修改文件 out/Default/args.gn 以变更编译选项
+# gn args --list out/Default 查看所有可能的编译选项
 
 # 几个常改的选项 
 
 is_debug = false # 编译非 Debug 版本，编译会变快
 symbol_level = 0 # 不保留符号，编译会变快
-is_component_build = false  # 构建成一个大的可执行文件，而不是一堆碎的
+blink_symbol_level = 0
+v8_symbol_level = 0
+is_component_build = false  # 构建成一个大的可执行文件，而不是一堆碎的库文件
 enable_nacl = false # 不支持 NACL 插件
-use_aura = false
+use_aura = false # 启用 Aura 桌面窗口管理系统，硬件加速 UI 渲染
 enable_remoting = false # 不支持远程控制
 
 ```
 
 
-构建
-====
+<br/>
+### 编译
 
 ```sh
+
+# cat out/Default/build.ninja 看所有可能的编译目标，下面编译的是 Content Shell
 
 autoninja -C out/Default content_shell_app
 
