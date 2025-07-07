@@ -68,7 +68,15 @@ enable_remoting = false # 不支持远程控制
 
 autoninja -C out/Default content_shell_app
 
-open ./out/Default/Content Shell.app/
+autoninja -C out/Default content_shell
+
+```
+
+### 运行
+
+```sh
+
+open out/Default/Content\ Shell.app
 
 ```
 
