@@ -20,6 +20,7 @@ fetch --no-history chromium
 
 ```
 
+
 ### 准备构建
 
 ```sh
@@ -35,6 +36,7 @@ gn gen out/Default
 # gn gen out/gn --ide=xcode 生成 Xcode 项目
 
 ```
+
 
 ### 修改编译选项
 
@@ -52,6 +54,7 @@ use_aura = false
 enable_remoting = false # 不支持远程控制
 
 ```
+
 
 ### 构建
 
