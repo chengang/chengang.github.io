@@ -46,13 +46,15 @@ gn gen out/Default
 
 # 几个常改的选项 
 
-is_debug = false # 编译非 Debug 版本，编译会变快
-symbol_level = 0 # 不保留符号，编译会变快
+vim out/Default/args.gn
+
+is_debug = false # 编译非 Debug 版本，编译会快
+symbol_level = 0 # 不保留符号，编译会快
 blink_symbol_level = 0
 v8_symbol_level = 0
 is_component_build = false  # 构建成一个大的可执行文件，而不是一堆碎的库文件
 enable_nacl = false # 不支持 NACL 插件
-use_aura = false # 启用 Aura 桌面窗口管理系统，硬件加速 UI 渲染
+use_aura = false # 不启用 Aura 桌面窗口管理系统，硬件加速 UI 渲染
 enable_remoting = false # 不支持远程控制
 
 ```
