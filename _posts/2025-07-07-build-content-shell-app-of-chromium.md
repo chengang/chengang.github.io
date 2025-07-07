@@ -4,7 +4,6 @@ date: 2025-07-07T00:30:38+00:00
 ---   
 
 
-&nbsp;
 ### 下载源代码
 
 ```sh 
@@ -23,7 +22,6 @@ fetch --no-history chromium
 ```
 
 
-&nbsp;
 ### 准备构建
 
 ```sh
@@ -39,7 +37,6 @@ gn gen out/Default
 ```
 
 
-&nbsp;
 ### 修改编译选项
 
 ```sh
@@ -61,7 +58,6 @@ enable_remoting = false # 不支持远程控制
 ```
 
 
-&nbsp;
 ### 编译
 
 ```sh
