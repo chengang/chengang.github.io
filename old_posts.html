@@ -1,0 +1,10 @@
+---
+title: 陈钢的博客
+layout: default
+---
+<h1>旧文归档</h1>
+{% for post in site.posts %}
+<h2>{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h2>
+{{ post.content }}
+<hr/>
+{% endfor %}

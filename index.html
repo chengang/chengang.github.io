@@ -1,9 +1,26 @@
 ---
-title: 陈钢的博客
 layout: default
+title: 陈钢的博客
 ---
-{% for post in site.posts %}
-<h2>{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h2>
-{{ post.content }}
-<hr/>
-{% endfor %}
+<div class="posts">
+  {% assign cutoff_date = '2025-01-01' | date: '%s' %}
+  {% for post in site.posts %}
+    {% assign post_date = post.date | date: '%s' %}
+    {% if post_date >= cutoff_date %}
+      <article class="post">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <div class="post-meta">
+          发布于 {{ post.date | date: "%Y-%m-%d" }}
+        </div>
+      </article>
+      <hr>
+    {% endif %}
+  {% endfor %}
+
+  <article class="post">
+      <h2><a href="{{ old_posts.html | relative_url }}">旧文归档</a></h2>
+      <div class="post-meta">
+          发布于 {{ post.date | date: "%Y-%m-%d" }}
+      </div>
+  </article>
+</div>
