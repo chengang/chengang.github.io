@@ -1,8 +1,10 @@
 ---   
-title: 构建 chromium 的例子程序备忘
+title: 备忘：构建 chromium 的例子程序
 date: 2025-07-07T00:30:38+00:00    
 ---   
 
+
+&nbsp;
 ### 下载源代码
 
 ```sh 
@@ -21,7 +23,7 @@ fetch --no-history chromium
 ```
 
 
-<br/>
+&nbsp;
 ### 准备构建
 
 ```sh
@@ -37,7 +39,7 @@ gn gen out/Default
 ```
 
 
-<br/>
+&nbsp;
 ### 修改编译选项
 
 ```sh
@@ -59,7 +61,7 @@ enable_remoting = false # 不支持远程控制
 ```
 
 
-<br/>
+&nbsp;
 ### 编译
 
 ```sh
